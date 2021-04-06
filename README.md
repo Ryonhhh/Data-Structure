@@ -1,4 +1,2 @@
-# htwang
-data structure
-course:2019_USTC_data structure
-teacher:Jinlong Li
+# data structure
+2019数据结构ljl 实验
